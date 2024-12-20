@@ -1,5 +1,4 @@
 ﻿#include "../exercise.h"
-#include
 
 // READ: 类模板 <https://zh.cppreference.com/w/cpp/language/class_template>
 
